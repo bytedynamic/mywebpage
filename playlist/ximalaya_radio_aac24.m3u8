@@ -17,16 +17,16 @@ http://live.ximalaya.com/radio-first-page-app/live/55/24.m3u8
 #EXTINF:-1 group-title="经济台", 第一财经广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/56/24.m3u8
-#EXTINF:-1 group-title="体育台", 上海五星体育广播
+#EXTINF:-1 group-title="None", 上海五星体育广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/57/24.m3u8
 #EXTINF:-1 group-title="综合台", 上海新闻广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/58/24.m3u8
-#EXTINF:-1 group-title="交通台", 上海交通广播电台
+#EXTINF:-1 group-title="None", 上海交通广播电台
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/59/24.m3u8
-#EXTINF:-1 group-title="曲艺台", 上海戏剧曲艺广播
+#EXTINF:-1 group-title="None", 上海戏剧曲艺广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/60/24.m3u8
 #EXTINF:-1 group-title="None", 上海故事广播
@@ -41,7 +41,7 @@ http://live.ximalaya.com/radio-first-page-app/live/64/24.m3u8
 #EXTINF:-1 group-title="None", 苏州音乐广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/65/24.m3u8
-#EXTINF:-1 group-title="文艺台", 苏州儿童广播
+#EXTINF:-1 group-title="None", 苏州儿童广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/66/24.m3u8
 #EXTINF:-1 group-title="None", 南京新闻综合广播
@@ -50,10 +50,10 @@ http://live.ximalaya.com/radio-first-page-app/live/68/24.m3u8
 #EXTINF:-1 group-title="None", 南京经济广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/69/24.m3u8
-#EXTINF:-1 group-title="None", 南京交通广播
+#EXTINF:-1 group-title="交通台", 南京交通广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/70/24.m3u8
-#EXTINF:-1 group-title="None", 南京音乐广播
+#EXTINF:-1 group-title="音乐台", 南京音乐广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/71/24.m3u8
 #EXTINF:-1 group-title="音乐台", 广东音乐之声
@@ -62,13 +62,13 @@ http://live.ximalaya.com/radio-first-page-app/live/74/24.m3u8
 #EXTINF:-1 group-title="None", 南京体育广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/88/24.m3u8
-#EXTINF:-1 group-title="新闻台", 京津冀之声
+#EXTINF:-1 group-title="None", 京津冀之声
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/91/24.m3u8
 #EXTINF:-1 group-title="交通台", 北京交通广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/93/24.m3u8
-#EXTINF:-1 group-title="文艺台", 北京文艺广播
+#EXTINF:-1 group-title="None", 北京文艺广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/94/24.m3u8
 #EXTINF:-1 group-title="None", 北京音乐广播
@@ -77,16 +77,16 @@ http://live.ximalaya.com/radio-first-page-app/live/95/24.m3u8
 #EXTINF:-1 group-title="None", 北京城市广播副中心之声
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/97/24.m3u8
-#EXTINF:-1 group-title="None", 重庆之声
+#EXTINF:-1 group-title="新闻台", 重庆之声
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/128/24.m3u8
-#EXTINF:-1 group-title="经济台", 重庆经济广播
+#EXTINF:-1 group-title="None", 重庆经济广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/129/24.m3u8
-#EXTINF:-1 group-title="交通台", 重庆交通广播
+#EXTINF:-1 group-title="None", 重庆交通广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/130/24.m3u8
-#EXTINF:-1 group-title="None", 重庆音乐广播
+#EXTINF:-1 group-title="音乐台", 重庆音乐广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/131/24.m3u8
 #EXTINF:-1 group-title="None", 938重庆私家车广播
@@ -95,10 +95,10 @@ http://live.ximalaya.com/radio-first-page-app/live/132/24.m3u8
 #EXTINF:-1 group-title="None", 安徽音乐广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/136/24.m3u8
-#EXTINF:-1 group-title="生活台", 安徽生活广播
+#EXTINF:-1 group-title="None", 安徽生活广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/137/24.m3u8
-#EXTINF:-1 group-title="None", 安徽交通广播
+#EXTINF:-1 group-title="交通台", 安徽交通广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/138/24.m3u8
 #EXTINF:-1 group-title="None", 安徽农村广播
@@ -116,19 +116,19 @@ http://live.ximalaya.com/radio-first-page-app/live/165/24.m3u8
 #EXTINF:-1 group-title="交通台", FM105.4 滁州旅游交通广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/174/24.m3u8
-#EXTINF:-1 group-title="新闻台", 广东新闻广播
+#EXTINF:-1 group-title="None", 广东新闻广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/245/24.m3u8
-#EXTINF:-1 group-title="None", 广东城市之声
+#EXTINF:-1 group-title="综合台", 广东城市之声
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/247/24.m3u8
-#EXTINF:-1 group-title="None", 广东羊城交通台
+#EXTINF:-1 group-title="交通台", 广东羊城交通台
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/248/24.m3u8
 #EXTINF:-1 group-title="None", 广东南方生活广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/249/24.m3u8
-#EXTINF:-1 group-title="经济台", 广东珠江经济电台
+#EXTINF:-1 group-title="None", 广东珠江经济电台
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/252/24.m3u8
 #EXTINF:-1 group-title="None", 广东广播电视台珠江之声
@@ -137,10 +137,10 @@ http://live.ximalaya.com/radio-first-page-app/live/255/24.m3u8
 #EXTINF:-1 group-title="None", 广州新闻资讯广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/256/24.m3u8
-#EXTINF:-1 group-title="音乐台", 广州金曲音乐广播
+#EXTINF:-1 group-title="None", 广州金曲音乐广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/257/24.m3u8
-#EXTINF:-1 group-title="综合台", 广州MYFM 88.0
+#EXTINF:-1 group-title="None", 广州MYFM 88.0
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/259/24.m3u8
 #EXTINF:-1 group-title="None", 深圳先锋898
@@ -161,6 +161,9 @@ http://live.ximalaya.com/radio-first-page-app/live/287/24.m3u8
 #EXTINF:-1 group-title="None", 甘肃都市调频快乐1066
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/288/24.m3u8
+#EXTINF:-1 group-title="None", 甘肃青春调频
+#EXTVLCOPT:network-caching=1000
+http://live.ximalaya.com/radio-first-page-app/live/290/24.m3u8
 #EXTINF:-1 group-title="None", 广西电台新闻910
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/299/24.m3u8
@@ -191,7 +194,7 @@ http://live.ximalaya.com/radio-first-page-app/live/331/24.m3u8
 #EXTINF:-1 group-title="None", 大连广播电视台老友之声广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/335/24.m3u8
-#EXTINF:-1 group-title="None", 丹东交通广播
+#EXTINF:-1 group-title="交通台", 丹东交通广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/343/24.m3u8
 #EXTINF:-1 group-title="None", 盘锦新闻综合广播
@@ -218,25 +221,25 @@ http://live.ximalaya.com/radio-first-page-app/live/380/24.m3u8
 #EXTINF:-1 group-title="None", 哈尔滨交通广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/385/24.m3u8
-#EXTINF:-1 group-title="None", 哈尔滨音乐广播
+#EXTINF:-1 group-title="音乐台", 哈尔滨音乐广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/386/24.m3u8
-#EXTINF:-1 group-title="None", 哈尔滨广播电视台综合广播
+#EXTINF:-1 group-title="综合台", 哈尔滨广播电视台综合广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/389/24.m3u8
-#EXTINF:-1 group-title="文艺台", 哈尔滨文艺广播
+#EXTINF:-1 group-title="None", 哈尔滨文艺广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/390/24.m3u8
 #EXTINF:-1 group-title="None", 湖南金鹰955电台
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/405/24.m3u8
-#EXTINF:-1 group-title="新闻台", 吉林新闻综合广播
+#EXTINF:-1 group-title="None", 吉林新闻综合广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/429/24.m3u8
 #EXTINF:-1 group-title="None", 吉林交通广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/431/24.m3u8
-#EXTINF:-1 group-title="新闻台", 吉林资讯广播
+#EXTINF:-1 group-title="None", 吉林资讯广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/432/24.m3u8
 #EXTINF:-1 group-title="文艺台", 吉林教育广播
@@ -248,7 +251,7 @@ http://live.ximalaya.com/radio-first-page-app/live/443/24.m3u8
 #EXTINF:-1 group-title="音乐台", 流行音乐先锋FM90.0 My Radio
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/468/24.m3u8
-#EXTINF:-1 group-title="新闻台", 郑州新闻广播
+#EXTINF:-1 group-title="None", 郑州新闻广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/470/24.m3u8
 #EXTINF:-1 group-title="经济台", 郑州经济生活广播
@@ -272,37 +275,37 @@ http://live.ximalaya.com/radio-first-page-app/live/493/24.m3u8
 #EXTINF:-1 group-title="None", 河北音乐广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/494/24.m3u8
-#EXTINF:-1 group-title="None", 石家庄新闻广播
+#EXTINF:-1 group-title="新闻台", 石家庄新闻广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/502/24.m3u8
 #EXTINF:-1 group-title="None", 石家庄广播电视台经济广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/503/24.m3u8
-#EXTINF:-1 group-title="None", 石家庄音乐广播
+#EXTINF:-1 group-title="音乐台", 石家庄音乐广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/504/24.m3u8
 #EXTINF:-1 group-title="None", 石家庄交通广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/505/24.m3u8
-#EXTINF:-1 group-title="新闻台", 邯郸新闻综合广播
+#EXTINF:-1 group-title="None", 邯郸新闻综合广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/514/24.m3u8
 #EXTINF:-1 group-title="None", 邯郸交通广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/515/24.m3u8
-#EXTINF:-1 group-title="新闻台", 保定新闻广播
+#EXTINF:-1 group-title="None", 保定新闻广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/516/24.m3u8
 #EXTINF:-1 group-title="None", 保定交通广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/517/24.m3u8
-#EXTINF:-1 group-title="None", 保定1058飞扬调频汽车音乐广播
+#EXTINF:-1 group-title="音乐台", 保定1058飞扬调频汽车音乐广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/521/24.m3u8
 #EXTINF:-1 group-title="None", 秦皇岛体育音乐广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/522/24.m3u8
-#EXTINF:-1 group-title="None", 秦皇岛交通广播
+#EXTINF:-1 group-title="交通台", 秦皇岛交通广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/523/24.m3u8
 #EXTINF:-1 group-title="None", 江苏新闻综合广播
@@ -311,16 +314,16 @@ http://live.ximalaya.com/radio-first-page-app/live/533/24.m3u8
 #EXTINF:-1 group-title="新闻台", 江苏新闻广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/534/24.m3u8
-#EXTINF:-1 group-title="None", 江苏交通广播
+#EXTINF:-1 group-title="交通台", 江苏交通广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/536/24.m3u8
-#EXTINF:-1 group-title="None", 江苏音乐广播PlayFM89.7
+#EXTINF:-1 group-title="音乐台", 江苏音乐广播PlayFM89.7
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/537/24.m3u8
 #EXTINF:-1 group-title="音乐台", 江苏经典流行音乐
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/538/24.m3u8
-#EXTINF:-1 group-title="经济台", 江苏财经广播
+#EXTINF:-1 group-title="None", 江苏财经广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/539/24.m3u8
 #EXTINF:-1 group-title="None", 江苏故事广播
@@ -362,16 +365,16 @@ http://live.ximalaya.com/radio-first-page-app/live/609/24.m3u8
 #EXTINF:-1 group-title="None", 江西潮台969
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/613/24.m3u8
-#EXTINF:-1 group-title="None", 南昌交通音乐广播
+#EXTINF:-1 group-title="交通台", 南昌交通音乐广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/618/24.m3u8
-#EXTINF:-1 group-title="None", 杭州交通经济广播
+#EXTINF:-1 group-title="交通台", 杭州交通经济广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/632/24.m3u8
 #EXTINF:-1 group-title="新闻台", 浙江之声
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/633/24.m3u8
-#EXTINF:-1 group-title="交通台", FM93浙江交通之声
+#EXTINF:-1 group-title="None", FM93浙江交通之声
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/634/24.m3u8
 #EXTINF:-1 group-title="None", 杭州西湖之声
@@ -383,7 +386,7 @@ http://live.ximalaya.com/radio-first-page-app/live/636/24.m3u8
 #EXTINF:-1 group-title="None", 浙江音乐调频
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/637/24.m3u8
-#EXTINF:-1 group-title="都市台", 浙江城市之声
+#EXTINF:-1 group-title="None", 浙江城市之声
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/638/24.m3u8
 #EXTINF:-1 group-title="None", 嘉兴交通广播
@@ -401,13 +404,13 @@ http://live.ximalaya.com/radio-first-page-app/live/643/24.m3u8
 #EXTINF:-1 group-title="None", 杭州之声
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/646/24.m3u8
-#EXTINF:-1 group-title="None", FM103.5湖州经济广播
+#EXTINF:-1 group-title="交通台", FM103.5湖州经济广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/647/24.m3u8
 #EXTINF:-1 group-title="None", 宁波交通广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/649/24.m3u8
-#EXTINF:-1 group-title="新闻台", 嘉兴新闻广播
+#EXTINF:-1 group-title="None", 嘉兴新闻广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/650/24.m3u8
 #EXTINF:-1 group-title="None", 嘉兴音乐广播
@@ -428,7 +431,7 @@ http://live.ximalaya.com/radio-first-page-app/live/672/24.m3u8
 #EXTINF:-1 group-title="None", 湖州新闻综合广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/675/24.m3u8
-#EXTINF:-1 group-title="交通台", 台州交通广播
+#EXTINF:-1 group-title="None", 台州交通广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/676/24.m3u8
 #EXTINF:-1 group-title="None", Fm971桐乡之声
@@ -446,7 +449,7 @@ http://live.ximalaya.com/radio-first-page-app/live/708/24.m3u8
 #EXTINF:-1 group-title="None", 武汉新闻广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/713/24.m3u8
-#EXTINF:-1 group-title="None", 武汉经济广播
+#EXTINF:-1 group-title="经济台", 武汉经济广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/714/24.m3u8
 #EXTINF:-1 group-title="None", 武汉交通广播
@@ -467,7 +470,7 @@ http://live.ximalaya.com/radio-first-page-app/live/742/24.m3u8
 #EXTINF:-1 group-title="None", 四川交通广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/752/24.m3u8
-#EXTINF:-1 group-title="音乐台", 四川城市之音
+#EXTINF:-1 group-title="None", 四川城市之音
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/755/24.m3u8
 #EXTINF:-1 group-title="None", 成都经济广播
@@ -476,7 +479,7 @@ http://live.ximalaya.com/radio-first-page-app/live/758/24.m3u8
 #EXTINF:-1 group-title="None", 年代音乐88.9&103.2
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/763/24.m3u8
-#EXTINF:-1 group-title="音乐台", AsiaFM亚洲音乐台
+#EXTINF:-1 group-title="None", AsiaFM亚洲音乐台
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/764/24.m3u8
 #EXTINF:-1 group-title="None", 南充交通音乐广播FM91.5
@@ -494,10 +497,10 @@ http://live.ximalaya.com/radio-first-page-app/live/792/24.m3u8
 #EXTINF:-1 group-title="None", 福建987私家车广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/793/24.m3u8
-#EXTINF:-1 group-title="音乐台", 山东音乐频道
+#EXTINF:-1 group-title="None", 山东音乐频道
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/794/24.m3u8
-#EXTINF:-1 group-title="None", 山东经济广播
+#EXTINF:-1 group-title="经济台", 山东经济广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/797/24.m3u8
 #EXTINF:-1 group-title="None", 济南音乐广播Music88.7
@@ -509,7 +512,7 @@ http://live.ximalaya.com/radio-first-page-app/live/800/24.m3u8
 #EXTINF:-1 group-title="None", 山东经典音乐广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/802/24.m3u8
-#EXTINF:-1 group-title="交通台", 济南交通广播
+#EXTINF:-1 group-title="None", 济南交通广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/803/24.m3u8
 #EXTINF:-1 group-title="None", 山东体育休闲广播
@@ -530,16 +533,16 @@ http://live.ximalaya.com/radio-first-page-app/live/856/24.m3u8
 #EXTINF:-1 group-title="None", 陕西896汽车调频
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/868/24.m3u8
-#EXTINF:-1 group-title="None", 陕西交通广播
+#EXTINF:-1 group-title="交通台", 陕西交通广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/869/24.m3u8
-#EXTINF:-1 group-title="None", 好听1055
+#EXTINF:-1 group-title="音乐台", 好听1055
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/870/24.m3u8
 #EXTINF:-1 group-title="None", 陕西秦腔广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/871/24.m3u8
-#EXTINF:-1 group-title="都市台", 陕西都市广播
+#EXTINF:-1 group-title="None", 陕西都市广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/872/24.m3u8
 #EXTINF:-1 group-title="None", 陕西戏曲广播
@@ -551,13 +554,13 @@ http://live.ximalaya.com/radio-first-page-app/live/881/24.m3u8
 #EXTINF:-1 group-title="None", 山西交通广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/885/24.m3u8
-#EXTINF:-1 group-title="None", 山西音乐广播
+#EXTINF:-1 group-title="音乐台", 山西音乐广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/886/24.m3u8
 #EXTINF:-1 group-title="None", 山西文艺广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/887/24.m3u8
-#EXTINF:-1 group-title="新闻台", 太原新闻综合广播
+#EXTINF:-1 group-title="None", 太原新闻综合广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/888/24.m3u8
 #EXTINF:-1 group-title="None", 958电台山西经济广播
@@ -569,7 +572,7 @@ http://live.ximalaya.com/radio-first-page-app/live/893/24.m3u8
 #EXTINF:-1 group-title="None", 云南音乐广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/904/24.m3u8
-#EXTINF:-1 group-title="生活台", 昆明汽车广播
+#EXTINF:-1 group-title="None", 昆明汽车广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/906/24.m3u8
 #EXTINF:-1 group-title="音乐台", 959年代音乐怀旧好声音
@@ -581,10 +584,10 @@ http://live.ximalaya.com/radio-first-page-app/live/966/24.m3u8
 #EXTINF:-1 group-title="体育台", 广东广播电视台文体广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/967/24.m3u8
-#EXTINF:-1 group-title="None", 新疆交通广播
+#EXTINF:-1 group-title="交通台", 新疆交通广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/987/24.m3u8
-#EXTINF:-1 group-title="音乐台", AsiaFM亚洲粤语台
+#EXTINF:-1 group-title="None", AsiaFM亚洲粤语台
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/999/24.m3u8
 #EXTINF:-1 group-title="None", 亚洲音乐成都FM96.5
@@ -617,7 +620,7 @@ http://live.ximalaya.com/radio-first-page-app/live/1125/24.m3u8
 #EXTINF:-1 group-title="None", 923泉州经济生活广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/1166/24.m3u8
-#EXTINF:-1 group-title="其他台", 衡阳FM105.6音乐电台
+#EXTINF:-1 group-title="None", 衡阳FM105.6音乐电台
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/1182/24.m3u8
 #EXTINF:-1 group-title="None", FM98.9衡阳综合广播
@@ -629,7 +632,7 @@ http://live.ximalaya.com/radio-first-page-app/live/1191/24.m3u8
 #EXTINF:-1 group-title="None", 清远综合广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/1198/24.m3u8
-#EXTINF:-1 group-title="音乐台", 怀集音乐之声第二台
+#EXTINF:-1 group-title="None", 怀集音乐之声第二台
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/1205/24.m3u8
 #EXTINF:-1 group-title="None", 东莞交通广播
@@ -638,16 +641,16 @@ http://live.ximalaya.com/radio-first-page-app/live/1210/24.m3u8
 #EXTINF:-1 group-title="None", 台山人民广播电台
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/1216/24.m3u8
-#EXTINF:-1 group-title="None", 中山电台新锐967
+#EXTINF:-1 group-title="综合台", 中山电台新锐967
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/1220/24.m3u8
-#EXTINF:-1 group-title="综合台", 东莞综合广播
+#EXTINF:-1 group-title="None", 东莞综合广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/1228/24.m3u8
 #EXTINF:-1 group-title="None", 上海城市沸点FM100.1
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/1236/24.m3u8
-#EXTINF:-1 group-title="其他台", 东上海之声
+#EXTINF:-1 group-title="None", 东上海之声
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/1239/24.m3u8
 #EXTINF:-1 group-title="None", 南充综合广播FM100.4
@@ -662,7 +665,7 @@ http://live.ximalaya.com/radio-first-page-app/live/1252/24.m3u8
 #EXTINF:-1 group-title="None", 商丘新闻综合广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/1271/24.m3u8
-#EXTINF:-1 group-title="交通台", 临沂交通旅游广播
+#EXTINF:-1 group-title="None", 临沂交通旅游广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/1275/24.m3u8
 #EXTINF:-1 group-title="None", 临沂综合广播
@@ -680,7 +683,7 @@ http://live.ximalaya.com/radio-first-page-app/live/1391/24.m3u8
 #EXTINF:-1 group-title="None", 江苏广播FM99.7金陵之声
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/1394/24.m3u8
-#EXTINF:-1 group-title="音乐台", AsiaFM HD音乐台
+#EXTINF:-1 group-title="None", AsiaFM HD音乐台
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/1427/24.m3u8
 #EXTINF:-1 group-title="None", 山东广播电视台综合广播
@@ -716,16 +719,16 @@ http://live.ximalaya.com/radio-first-page-app/live/1669/24.m3u8
 #EXTINF:-1 group-title="None", FM89.5 阳江旅游环保广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/1805/24.m3u8
-#EXTINF:-1 group-title="None", 客都之声 FM1039
+#EXTINF:-1 group-title="都市台", 客都之声 FM1039
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/1809/24.m3u8
 #EXTINF:-1 group-title="None", 新疆汉语新闻广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/1828/24.m3u8
-#EXTINF:-1 group-title="None", 新疆兵团之声
+#EXTINF:-1 group-title="综合台", 新疆兵团之声
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/1838/24.m3u8
-#EXTINF:-1 group-title="音乐台", 杭州FM90.7
+#EXTINF:-1 group-title="None", 杭州FM90.7
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/1845/24.m3u8
 #EXTINF:-1 group-title="音乐台", FM105.8 经典音乐调频
@@ -752,7 +755,7 @@ http://live.ximalaya.com/radio-first-page-app/live/2502/24.m3u8
 #EXTINF:-1 group-title="None", FM98.5扬州新闻广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/2543/24.m3u8
-#EXTINF:-1 group-title="None", FM873犀牛电台
+#EXTINF:-1 group-title="音乐台", FM873犀牛电台
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/2572/24.m3u8
 #EXTINF:-1 group-title="None", 流行音乐广播999正青春
@@ -767,7 +770,7 @@ http://live.ximalaya.com/radio-first-page-app/live/2632/24.m3u8
 #EXTINF:-1 group-title="None", 永州新闻综合广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/2634/24.m3u8
-#EXTINF:-1 group-title="综合台", 东海994
+#EXTINF:-1 group-title="None", 东海994
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/2638/24.m3u8
 #EXTINF:-1 group-title="None", 宝安905
@@ -827,7 +830,7 @@ http://live.ximalaya.com/radio-first-page-app/live/2734/24.m3u8
 #EXTINF:-1 group-title="None", 鸡西交通广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/2735/24.m3u8
-#EXTINF:-1 group-title="None", 山西健康之声广播
+#EXTINF:-1 group-title="生活台", 山西健康之声广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/2736/24.m3u8
 #EXTINF:-1 group-title="None", FM92.8斗门电台
@@ -854,7 +857,7 @@ http://live.ximalaya.com/radio-first-page-app/live/2799/24.m3u8
 #EXTINF:-1 group-title="None", 四川岷江音乐广播
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/2802/24.m3u8
-#EXTINF:-1 group-title="None", 崂山921
+#EXTINF:-1 group-title="音乐台", 崂山921
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/2806/24.m3u8
 #EXTINF:-1 group-title="None", 辽宁生活广播
@@ -884,9 +887,6 @@ http://live.ximalaya.com/radio-first-page-app/live/2857/24.m3u8
 #EXTINF:-1 group-title="None", 徐州铜山经典942
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/2860/24.m3u8
-#EXTINF:-1 group-title="None", 营口新闻综合广播
-#EXTVLCOPT:network-caching=1000
-http://live.ximalaya.com/radio-first-page-app/live/2861/24.m3u8
 #EXTINF:-1 group-title="None", 禹州人民广播电台
 #EXTVLCOPT:network-caching=1000
 http://live.ximalaya.com/radio-first-page-app/live/2866/24.m3u8
