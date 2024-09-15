@@ -17,3 +17,18 @@ https://ihzlh.linker.cc/ihzlh/zjnb_ts02_986.m3u8
 #EXTINF:-1 group-title="宁波",宁波经济广播
 #EXTVLCOPT:network-caching=1000
 https://ihzlh.linker.cc/ihzlh/zjnb_ts03_1029.m3u8
+#EXTINF:-1 group-title="央广",环球资讯广播
+#EXTVLCOPT:network-caching=1000
+https://sk.cri.cn/905.m3u8
+#EXTINF:-1 group-title="央广",轻松调频
+#EXTVLCOPT:network-caching=1000
+http://sk.cri.cn/915.m3u8
+#EXTINF:-1 group-title="央广",环球华语
+#EXTVLCOPT:network-caching=1000
+https://sk.cri.cn/hyhq.m3u8
+#EXTINF:-1 group-title="央广",世界华声
+#EXTVLCOPT:network-caching=1000
+https://sk.cri.cn/hxfh.m3u8
+#EXTINF:-1 group-title="央广",南海之声
+#EXTVLCOPT:network-caching=1000
+https://sk.cri.cn/nhzs.m3u8
