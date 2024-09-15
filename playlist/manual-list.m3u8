@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 group-title="财经",第一财经广播
+#EXTVLCOPT:network-caching=1000
+http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
+#EXTINF:-1 group-title="财经",第一财经电视
+#EXTVLCOPT:network-caching=1000
+https://a1live.livecdn.yicai.com/live/yicai_radio.m3u8
+#EXTINF:-1 group-title="宁波",宁波新闻综合广播
+#EXTVLCOPT:network-caching=1000
+https://ihzlh.linker.cc/ihzlh/zjnb_ts04_920.m3u8
+#EXTINF:-1 group-title="宁波",宁波交通广播
+#EXTVLCOPT:network-caching=1000
+https://ihzlh.linker.cc/ihzlh/zjnb_ts01_939.m3u8
+#EXTINF:-1 group-title="宁波",宁波电台音乐广播
+#EXTVLCOPT:network-caching=1000
+https://ihzlh.linker.cc/ihzlh/zjnb_ts02_986.m3u8
+#EXTINF:-1 group-title="宁波",宁波经济广播
+#EXTVLCOPT:network-caching=1000
+https://ihzlh.linker.cc/ihzlh/zjnb_ts03_1029.m3u8
