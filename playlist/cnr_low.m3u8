@@ -1,0 +1,631 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20210425/1619317448858.jpg" group-title="国家台",中国之声
+#EXTVLCOPT:network-caching=1000
+https://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20230315/1678868245687.png" group-title="国家台",经济之声
+#EXTVLCOPT:network-caching=1000
+https://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191224/1577155745280.png" group-title="国家台",音乐之声
+#EXTVLCOPT:network-caching=1000
+https://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20200108/1578449381052.png" group-title="国家台",经典音乐广播
+#EXTVLCOPT:network-caching=1000
+https://ngcdn004.cnr.cn/live/dszs/index.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20230612/1686554758307.png" group-title="国家台",台海之声
+#EXTVLCOPT:network-caching=1000
+https://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20230612/1686554715652.png" group-title="国家台",神州之声
+#EXTVLCOPT:network-caching=1000
+https://ngcdn006.cnr.cn/live/szzs/index.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20230612/1686554680065.png" group-title="国家台",大湾区之声
+#EXTVLCOPT:network-caching=1000
+https://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2014/9/18/1411026604061.jpg" group-title="国家台",民族之声
+#EXTVLCOPT:network-caching=1000
+https://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2014/9/18/1411025674178.jpg" group-title="国家台",文艺之声
+#EXTVLCOPT:network-caching=1000
+https://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2014/9/18/1411025684693.jpg" group-title="国家台",老年之声
+#EXTVLCOPT:network-caching=1000
+https://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2014/9/18/1411025710246.jpg" group-title="国家台",藏语广播
+#EXTVLCOPT:network-caching=1000
+https://ngcdn012.cnr.cn/live/zygb/index.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191015/1571132054820.png" group-title="国家台",阅读之声
+#EXTVLCOPT:network-caching=1000
+https://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2014/9/18/1411025697139.jpg" group-title="国家台",维语广播
+#EXTVLCOPT:network-caching=1000
+https://ngcdn013.cnr.cn/live/wygb/index.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20230612/1686554792374.png" group-title="国家台",香港之声
+#EXTVLCOPT:network-caching=1000
+https://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20221211/1670743148470.jpg" group-title="国家台",中国交通广播
+#EXTVLCOPT:network-caching=1000
+https://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20210425/1619318057428.jpg" group-title="国家台",中国乡村之声
+#EXTVLCOPT:network-caching=1000
+https://ngcdn017.cnr.cn/live/xczs/index.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2014/12/29/1419837253068.jpg" group-title="国家台",哈语广播
+#EXTVLCOPT:network-caching=1000
+https://ngcdn025.cnr.cn/live/hygb/index.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20200306/1583464064428.jpg" group-title="国家台",环球资讯广播
+#EXTVLCOPT:network-caching=1000
+https://sk.cri.cn/905.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20200528/1590662120265.jpg" group-title="国家台",南海之声
+#EXTVLCOPT:network-caching=1000
+https://sk.cri.cn/nhzs.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191227/1577439525359.png" group-title="国家台",轻松调频
+#EXTVLCOPT:network-caching=1000
+https://sk.cri.cn/915.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191227/1577439531060.png" group-title="国家台",HITFM国际流行音乐
+#EXTVLCOPT:network-caching=1000
+https://sk.cri.cn/887.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20211222/1640137536123.jpg" group-title="国家台",英语资讯广播 CGTN Radio
+#EXTVLCOPT:network-caching=1000
+https://sk.cri.cn/am846.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20200728/1595930234180.jpg" group-title="北京",北京新闻广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20240603/1717411804248.jpg" group-title="北京",北京京津冀之声
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxbjcsfwgl/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20210824/1629794765975.jpg" group-title="河北",河北综合广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxhebzhgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2014/11/4/1415090650614.jpg" group-title="河北",河北经济广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxhebjjgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2014/11/4/1415090664442.jpg" group-title="河北",河北交通广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxhebjtgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2014/11/4/1415090678891.jpg" group-title="河北",河北音乐广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxhebyygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576568661093.png" group-title="河北",河北生活广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxhebshgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576568674361.jpg" group-title="河北",河北文艺广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576572538604.png" group-title="山西",山西综合广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxssxxwgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/ondemand/media/1100/20170412/1491967442776.jpg" group-title="内蒙古",内蒙古音乐之声
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571312111.png" group-title="内蒙古",内蒙古蒙古语广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32nmgmygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571316816.png" group-title="内蒙古",内蒙古评书曲艺广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32nmgpsqy/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/ondemand/media/1100/20170412/1491968229629.png" group-title="内蒙古",内蒙古经济生活广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32nmgjjgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/ondemand/media/1100/20170412/1491977989223.png" group-title="内蒙古",内蒙古绿野之声广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32nmglyzs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20210223/1614061200817.jpg" group-title="内蒙古",内蒙古新闻综合广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32nmghyzhxwgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571301031.jpg" group-title="内蒙古",内蒙古交通之声广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32nmgjtgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571301031.jpg" group-title="内蒙古",内蒙古对外广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32nmgdwgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20200321/1584753916183.jpg" group-title="内蒙古",呼伦贝尔蒙语广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32nmghlbemygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571292257.jpg" group-title="内蒙古",呼伦贝尔汉语广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32nmghlbehygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571301031.jpg" group-title="内蒙古",蒙古语综合广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32nmgmyxwgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499072617636.jpg" group-title="辽宁",辽宁综合广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxlnzhgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576569595967.png" group-title="辽宁",辽宁交通广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxlnjtgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576569595967.png" group-title="辽宁",辽宁经济广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxlnjjtb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576569604733.png" group-title="辽宁",辽宁乡村广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxlnxcgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576569600372.png" group-title="辽宁",辽宁文艺广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxlnwygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576570804977.jpg" group-title="吉林",吉林新闻综合广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxjlxwzhgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2014/6/11/1402464870965.jpg" group-title="吉林",吉林乡村广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2014/6/11/1402465040674.jpg" group-title="吉林",吉林交通广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxjljtgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576570799959.jpg" group-title="吉林",吉林经济广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxjljjgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2015/8/10/1439187246765.jpg" group-title="吉林",延边新闻广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxybxwgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2015/8/10/1439187505528.jpg" group-title="吉林",延边文艺生活广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxybwyshgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576570879855.jpg" group-title="黑龙江",黑龙江新闻广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32hljxwgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576570862583.jpg" group-title="黑龙江",黑龙江女性广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32hljnxgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20211130/1638238327629.png" group-title="黑龙江",黑龙江音乐广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32hljyygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576570862583.jpg" group-title="黑龙江",黑龙江高校广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32hljgxgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576570862583.jpg" group-title="黑龙江",黑龙江朝语广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32hljcygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576570862583.jpg" group-title="黑龙江",黑龙江爱家频道广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32hljajgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576570870615.png" group-title="黑龙江",黑龙江私家车频道广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32hljsjcgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576570875591.jpg" group-title="黑龙江",黑龙江乡村广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32hljxcgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576570866742.jpg" group-title="黑龙江",黑龙江交通广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32hljjtgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576568821866.png" group-title="上海",上海东方广播电台
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2015/8/14/1439534621284.jpg" group-title="上海",上海新闻广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32shrmgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20180530/1527671006728.jpg" group-title="江苏",江苏新闻综合广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32jsxwzhgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20180530/1527671021748.jpg" group-title="江苏",江苏新闻广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32jsxwgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20180530/1527671037725.jpg" group-title="江苏",江苏经典流行音乐
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32jsjdlxyy/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499072477154.jpg" group-title="江苏",江苏音乐广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32jsyygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499072448101.jpg" group-title="江苏",江苏文艺广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32jswygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499072434590.jpg" group-title="江苏",江苏金陵之声
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32jsqctp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499072377079.jpg" group-title="江苏",江苏交通广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32jsjtgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499072294923.jpg" group-title="江苏",江苏财经广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32jscjgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20180530/1527671054972.jpg" group-title="江苏",江苏健康广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32jsjkgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20180530/1527671073224.jpg" group-title="江苏",江苏故事广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32jsgsgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576569815351.png" group-title="浙江",浙江交通之声
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxzjjtgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576569810695.png" group-title="浙江",浙江女主播电台
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxzj1045/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2015/8/11/1439282560368.jpg" group-title="浙江",浙江之声
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxzjzs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20220519/1652935755300.jpg" group-title="浙江",浙江民生996
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxzjmsgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2015/8/11/1439283021872.JPG" group-title="浙江",浙江经济广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxzjjjgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2015/8/11/1439283104654.jpg" group-title="浙江",浙江城市之声
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxzjcszs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2015/8/11/1439283175800.jpg" group-title="浙江",浙江悦动之音
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxzj968/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170518/1495093715603.jpg" group-title="安徽",安徽新闻广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxahxxgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571930098.png" group-title="安徽",安徽经济广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxahjjgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170518/1495094189766.jpg" group-title="安徽",安徽音乐广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxahyygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170518/1495094649791.jpg" group-title="安徽",安徽生活广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxahshgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170518/1495094034111.png" group-title="安徽",安徽交通广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170518/1495094495020.jpg" group-title="安徽",安徽农村广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxahncgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170518/1495095335659.jpg" group-title="安徽",安徽小说评书广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxahxspsgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571934058.png" group-title="安徽",安徽戏曲广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxahxqgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170518/1495095127231.jpg" group-title="安徽",安徽旅游广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxahlygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576569908293.png" group-title="福建",福建交通广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32fjdnjtgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2015/8/26/1440573927563.jpg" group-title="福建",福建经济电台961
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170614/1497426277879.jpg" group-title="福建",福建新闻广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576569904366.png" group-title="福建",福建都市广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32fjdndsgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576569912292.jpg" group-title="福建",福建音乐广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32fjdnyygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576569899629.png" group-title="福建",福建东南广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32fjdngb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499072543804.jpg" group-title="江西",江西新闻广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32jiangxxwgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2014/8/18/1408354161968.jpg" group-title="江西",江西交通广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32jiangxjtgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2014/8/18/1408354248154.jpg" group-title="江西",江西音乐广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32jiangxyygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2014/8/18/1408354382712.jpg" group-title="江西",江西都市广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32jiangxdsgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499072519779.jpg" group-title="江西",江西民生广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32jiangxmsgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576570121463.png" group-title="江西",江西农村广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32jiangxncgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20220519/1652948693860.jpg" group-title="山东",山东交通广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxsdjtgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20220519/1652949124162.jpg" group-title="山东",山东体育休闲广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20220519/1652949003477.jpg" group-title="山东",山东乡村广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxsdxcgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20220519/1652948796595.jpg" group-title="山东",山东经济广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxsdjjgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20220519/1652948864811.jpg" group-title="山东",山东文艺广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxsdwyssgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20220519/1652949054807.jpg" group-title="山东",山东音乐广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxsdyygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576569111553.jpg" group-title="河南",河南新闻广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxhnxwgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2014/5/22/1400747033096.jpg" group-title="河南",河南戏曲广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxhnxqgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2014/5/22/1400747065532.jpg" group-title="河南",河南农村广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxhnncgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2014/5/22/1400747094844.jpg" group-title="河南",河南旅游广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxhnlygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2015/5/18/1431928457229.jpg" group-title="河南",河南经济广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxhnjjgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20221028/1666950370382.jpg" group-title="河南",河南信息广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxhnxxgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20200204/1580802417286.jpg" group-title="湖北",湖北之声
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32hubzsgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576570477811.png" group-title="湖北",湖北妇女儿童广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32hubfnetgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576570511847.png" group-title="湖北",湖北资讯广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32hubzxgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576570485832.png" group-title="湖北",湖北交通广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32hubjtgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576570490370.png" group-title="湖北",湖北经典音乐
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32hubyygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576570495126.png" group-title="湖北",湖北经济广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32hubjjgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576570500687.png" group-title="湖北",湖北生活广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32hubczshgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576570477811.png" group-title="湖北",湖北农村广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32hubncgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170614/1497425171192.jpg" group-title="湖南",湖南新闻频道
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32hunxwgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576570410135.png" group-title="湖南",湖南电台潇湘之声
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32hunyygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20200413/1586764109369.jpg" group-title="湖南",湖南年代音乐台
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2014/10/13/1413193427271.jpg" group-title="广东",广东新闻广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499071879479.jpg" group-title="广东",广东股市广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxgdgsgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2014/10/13/1413193130198.jpg" group-title="广东",广东音乐之声
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxgdyyzs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2014/10/13/1413193319423.jpg" group-title="广东",广东文体广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxgdwtgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2014/10/13/1413193105787.jpg" group-title="广东",广东城市之声
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxgdcszs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2014/10/13/1413193155420.jpg" group-title="广东",广东南粤之声
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxnyzs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2014/10/13/1413189658282.jpg" group-title="广东",广东珠江经济台
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxgdzjjjt/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499071910071.jpg" group-title="广东",广东南方生活广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxgdnfshgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2014/10/13/1413189768306.jpg" group-title="广东",广东羊城交通广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxgdycjtt/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576570052333.jpg" group-title="广东",深圳交通频率
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxszjjpl/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/ondemand/media/1100/20170509/1494319187883.jpg" group-title="广东",深圳私家车广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxszsjcgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576570048006.jpg" group-title="广东",深圳飞扬971
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxszfy971/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571608830.png" group-title="广西",广西人民广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32gxrmgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571608830.png" group-title="广西",广西经济广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32gxjjgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571608830.png" group-title="广西",广西教育生活广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32gbjyshgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571608830.png" group-title="广西",广西文艺广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32gxwygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571612538.png" group-title="广西",广西交通广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32gxjtgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571608830.png" group-title="广西",广西对外广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32gxdwgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20220610/1654847814232.png" group-title="海南",海南音乐广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxhainyygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20220610/1654848317039.png" group-title="海南",海南交通广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxhainjtgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2015/9/15/1442302058442.jpg" group-title="海南",海南新闻广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576568963961.png" group-title="重庆",重庆音乐广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxcqyygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2015/8/4/1438654204934.jpg" group-title="重庆",重庆文艺广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxcqwygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2015/8/4/1438654432073.jpg" group-title="重庆",重庆经济广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxcqjjgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2015/8/4/1438654836930.jpg" group-title="重庆",重庆新闻广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2015/8/4/1438654924708.jpg" group-title="重庆",重庆都市广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxcqdsgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576568959038.png" group-title="重庆",重庆交通广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxcqjtgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576569714117.png" group-title="四川",四川经济广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxscjjgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499072893877.jpg" group-title="四川",四川文艺广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxscwygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499072880191.jpg" group-title="四川",四川岷江音乐频率
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxscmjyyt/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20210202/1612236026984.png" group-title="四川",四川新闻频率
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxsclyshgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499072818138.jpg" group-title="四川",四川交通广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxscjtgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499072804268.jpg" group-title="四川",四川城市之音
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxsccszs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499072866179.jpg" group-title="四川",四川民族频率
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxscmzgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576569718201.png" group-title="四川",四川综合广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxsczhgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2015/7/23/1437643585850.jpg" group-title="四川",四川私家车925
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxsc925/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576569520301.png" group-title="贵州",贵州综合广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32gzwxwzhgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499072029654.jpg" group-title="贵州",贵州经济广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32gzjjgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2014/9/11/1410425167683.jpg" group-title="贵州",贵州音乐广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32gzyygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2014/9/11/1410425336743.jpg" group-title="贵州",贵州旅游广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32gzlygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576569515532.jpg" group-title="贵州",贵州故事广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32gzgsgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576569510334.png" group-title="贵州",贵州都市广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32gzqcgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571808321.png" group-title="云南",云南交通广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxynjtgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571816185.png" group-title="云南",云南音乐广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxynyygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170905/1504575501746.jpg" group-title="云南",云南新闻广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxynxwgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2015/9/17/1442458798622.jpg" group-title="云南",云南经济广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxynjjgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/ondemand/media/1100/20170509/1494311890143.jpg" group-title="云南",云南FM99香格里拉之声
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxxgllzs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170905/1504575417551.jpg" group-title="云南",云南民族广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxynmzgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576572400638.png" group-title="西藏",西藏藏语广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxxzzygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576572400638.png" group-title="西藏",西藏汉语广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxxzhygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576572400638.png" group-title="西藏",西藏对外交通广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxxzdwjtgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576572400638.png" group-title="西藏",西藏藏语康巴方言
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxxzzykbfy/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576572404852.png" group-title="西藏",西藏都市生活广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxxzdsshgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170519/1495182519032.jpg" group-title="陕西",陕西音乐广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571155135.png" group-title="陕西",陕西戏曲广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxsxxxqgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170519/1495182338791.png" group-title="陕西",陕西交通广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxsxxjtgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571151392.png" group-title="陕西",陕西农村广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxsxxncgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571142855.png" group-title="陕西",陕西青春广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571142855.png" group-title="陕西",陕西都市广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxsxxdsgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170519/1495182167838.png" group-title="陕西",陕西新闻广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxsxxxwgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571147472.png" group-title="陕西",陕西经济广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxsxxjjgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20200423/1587609601618.jpg" group-title="甘肃",甘肃新闻综合广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxgsxwzhgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170626/1498457702810.png" group-title="甘肃",甘肃农村广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxgsncgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499071754250.jpg" group-title="甘肃",甘肃交通广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxgsjtgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499071738675.jpg" group-title="甘肃",甘肃都市调频
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499071766024.jpg" group-title="甘肃",甘肃青春调频
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxgsqcgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170626/1498457628947.png" group-title="甘肃",甘肃黄河之声
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20210915/1631699470410.jpg" group-title="青海",青海交通音乐广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32qhjtyygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20210915/1631699588575.jpg" group-title="青海",青海广播电视台经济广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32qhjjgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20210915/1631699247011.png" group-title="青海",青海新闻综合广播 青海之声
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32qhwxzhgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576572057383.jpg" group-title="青海",青海藏语广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wx32qhzygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499072673183.jpg" group-title="宁夏",宁夏新闻广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxnxxwgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499072663686.jpg" group-title="宁夏",宁夏经济广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxnxjjgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499072651855.jpg" group-title="宁夏",宁夏都市广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxnxdsgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499072685869.jpg" group-title="宁夏",宁夏音乐广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxnxyygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20210304/1614822898474.jpg" group-title="新疆",新疆新闻广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxxjxwgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2014/12/18/1418890326592.jpg" group-title="新疆",新疆交通广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxxjjtgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576572218290.png" group-title="新疆",新疆私家车广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxxjsjcgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576572218290.png" group-title="新疆",新疆维语综合广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxxjwyzhgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20210304/1614823003337.jpg" group-title="新疆",新疆维吾尔语交通文艺广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxxjwyjtwygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576572226874.png" group-title="新疆",新疆蒙语广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxxjmygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576572218290.png" group-title="新疆",新疆哈语广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxxjhygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576572222994.png" group-title="新疆",新疆柯尔克孜语广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxxjkygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20200806/1596680600543.jpg" group-title="新疆",新疆兵团综合广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxbtzs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576572218290.png" group-title="新疆",新疆绿色广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxxjlsgb/playlist.m3u8
